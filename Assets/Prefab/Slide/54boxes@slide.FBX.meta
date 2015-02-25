@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 5c0e01f15fda74d17b3439b52f1167db
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box010
+    100004: Box011
+    100006: Box012
+    100008: Box013
+    100010: Box014
+    100012: Box015
+    100014: Box016
+    100016: Box017
+    100018: Box018
+    100020: Box019
+    100022: Box020
+    100024: Box021
+    100026: Box022
+    100028: Box023
+    100030: Box024
+    100032: Box025
+    100034: Box026
+    100036: Box027
+    100038: Box028
+    100040: Box029
+    100042: Box030
+    100044: Box031
+    100046: Box032
+    100048: Box033
+    100050: Box034
+    100052: Box035
+    100054: Box036
+    100056: Box037
+    100058: Box038
+    100060: Box039
+    100062: Box040
+    100064: Box041
+    100066: Box042
+    100068: Box043
+    100070: Box044
+    100072: Box045
+    100074: Box046
+    100076: Box047
+    100078: Box049
+    100080: Box050
+    100082: Box051
+    100084: Box052
+    100086: Box053
+    100088: Box054
+    100090: Box056
+    100092: Box057
+    100094: Box058
+    100096: Box059
+    100098: Box060
+    100100: Box061
+    100102: Box062
+    100104: Box063
+    100106: Box064
+    100108: Box065
+    100110: Box066
+    400000: //RootNode
+    400002: Box010
+    400004: Box011
+    400006: Box012
+    400008: Box013
+    400010: Box014
+    400012: Box015
+    400014: Box016
+    400016: Box017
+    400018: Box018
+    400020: Box019
+    400022: Box020
+    400024: Box021
+    400026: Box022
+    400028: Box023
+    400030: Box024
+    400032: Box025
+    400034: Box026
+    400036: Box027
+    400038: Box028
+    400040: Box029
+    400042: Box030
+    400044: Box031
+    400046: Box032
+    400048: Box033
+    400050: Box034
+    400052: Box035
+    400054: Box036
+    400056: Box037
+    400058: Box038
+    400060: Box039
+    400062: Box040
+    400064: Box041
+    400066: Box042
+    400068: Box043
+    400070: Box044
+    400072: Box045
+    400074: Box046
+    400076: Box047
+    400078: Box049
+    400080: Box050
+    400082: Box051
+    400084: Box052
+    400086: Box053
+    400088: Box054
+    400090: Box056
+    400092: Box057
+    400094: Box058
+    400096: Box059
+    400098: Box060
+    400100: Box061
+    400102: Box062
+    400104: Box063
+    400106: Box064
+    400108: Box065
+    400110: Box066
+    2300000: Box010
+    2300002: Box011
+    2300004: Box012
+    2300006: Box013
+    2300008: Box014
+    2300010: Box015
+    2300012: Box016
+    2300014: Box017
+    2300016: Box018
+    2300018: Box019
+    2300020: Box020
+    2300022: Box021
+    2300024: Box022
+    2300026: Box023
+    2300028: Box024
+    2300030: Box025
+    2300032: Box026
+    2300034: Box027
+    2300036: Box028
+    2300038: Box029
+    2300040: Box030
+    2300042: Box031
+    2300044: Box032
+    2300046: Box033
+    2300048: Box034
+    2300050: Box035
+    2300052: Box036
+    2300054: Box037
+    2300056: Box038
+    2300058: Box039
+    2300060: Box040
+    2300062: Box041
+    2300064: Box042
+    2300066: Box043
+    2300068: Box044
+    2300070: Box045
+    2300072: Box046
+    2300074: Box047
+    2300076: Box049
+    2300078: Box050
+    2300080: Box051
+    2300082: Box052
+    2300084: Box053
+    2300086: Box054
+    2300088: Box056
+    2300090: Box057
+    2300092: Box058
+    2300094: Box059
+    2300096: Box060
+    2300098: Box061
+    2300100: Box062
+    2300102: Box063
+    2300104: Box064
+    2300106: Box065
+    2300108: Box066
+    3300000: Box010
+    3300002: Box011
+    3300004: Box012
+    3300006: Box013
+    3300008: Box014
+    3300010: Box015
+    3300012: Box016
+    3300014: Box017
+    3300016: Box018
+    3300018: Box019
+    3300020: Box020
+    3300022: Box021
+    3300024: Box022
+    3300026: Box023
+    3300028: Box024
+    3300030: Box025
+    3300032: Box026
+    3300034: Box027
+    3300036: Box028
+    3300038: Box029
+    3300040: Box030
+    3300042: Box031
+    3300044: Box032
+    3300046: Box033
+    3300048: Box034
+    3300050: Box035
+    3300052: Box036
+    3300054: Box037
+    3300056: Box038
+    3300058: Box039
+    3300060: Box040
+    3300062: Box041
+    3300064: Box042
+    3300066: Box043
+    3300068: Box044
+    3300070: Box045
+    3300072: Box046
+    3300074: Box047
+    3300076: Box049
+    3300078: Box050
+    3300080: Box051
+    3300082: Box052
+    3300084: Box053
+    3300086: Box054
+    3300088: Box056
+    3300090: Box057
+    3300092: Box058
+    3300094: Box059
+    3300096: Box060
+    3300098: Box061
+    3300100: Box062
+    3300102: Box063
+    3300104: Box064
+    3300106: Box065
+    3300108: Box066
+    4300000: Box010
+    4300002: Box011
+    4300004: Box012
+    4300006: Box013
+    4300008: Box014
+    4300010: Box015
+    4300012: Box016
+    4300014: Box017
+    4300016: Box018
+    4300018: Box019
+    4300020: Box020
+    4300022: Box021
+    4300024: Box022
+    4300026: Box023
+    4300028: Box024
+    4300030: Box025
+    4300032: Box026
+    4300034: Box027
+    4300036: Box028
+    4300038: Box029
+    4300040: Box030
+    4300042: Box031
+    4300044: Box032
+    4300046: Box033
+    4300048: Box034
+    4300050: Box035
+    4300052: Box036
+    4300054: Box037
+    4300056: Box038
+    4300058: Box039
+    4300060: Box040
+    4300062: Box041
+    4300064: Box042
+    4300066: Box043
+    4300068: Box044
+    4300070: Box045
+    4300072: Box046
+    4300074: Box047
+    4300076: Box049
+    4300078: Box050
+    4300080: Box051
+    4300082: Box052
+    4300084: Box053
+    4300086: Box054
+    4300088: Box056
+    4300090: Box057
+    4300092: Box058
+    4300094: Box059
+    4300096: Box060
+    4300098: Box061
+    4300100: Box062
+    4300102: Box063
+    4300104: Box064
+    4300106: Box065
+    4300108: Box066
+    7400000: slide
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: slide
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: FinishAnimation
+        data: 
+        objectReferenceParameter: {fileID: 100000, guid: 5c0e01f15fda74d17b3439b52f1167db,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Box042
+        weight: 1
+      - path: Box043
+        weight: 1
+      - path: Box044
+        weight: 1
+      - path: Box045
+        weight: 1
+      - path: Box046
+        weight: 1
+      - path: Box047
+        weight: 1
+      - path: Box049
+        weight: 1
+      - path: Box050
+        weight: 1
+      - path: Box051
+        weight: 1
+      - path: Box052
+        weight: 1
+      - path: Box053
+        weight: 1
+      - path: Box054
+        weight: 1
+      - path: Box056
+        weight: 1
+      - path: Box057
+        weight: 1
+      - path: Box058
+        weight: 1
+      - path: Box059
+        weight: 1
+      - path: Box060
+        weight: 1
+      - path: Box061
+        weight: 1
+      - path: Box062
+        weight: 1
+      - path: Box063
+        weight: 1
+      - path: Box064
+        weight: 1
+      - path: Box065
+        weight: 1
+      - path: Box066
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

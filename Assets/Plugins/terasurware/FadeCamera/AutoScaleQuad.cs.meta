@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d6dbf7675e2141d08afc3851620b661
+labels:
+- FadecamCrossfade
+- FadecamEasySwitch
+- FadecamSample1
+- FadecamSample2
+- FadecamtransitionFirst
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

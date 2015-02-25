@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 97453b78d29944214a17c575798bf93c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box009
+    100004: Box010
+    100006: Box011
+    100008: Box012
+    100010: Box014
+    100012: Box015
+    100014: Box016
+    100016: Box017
+    100018: Box018
+    100020: Box019
+    100022: Box020
+    100024: Box021
+    100026: Box022
+    100028: Box023
+    100030: Box026
+    100032: Box030
+    100034: Box031
+    100036: Box032
+    100038: Box035
+    100040: Box036
+    100042: Box038
+    100044: Box039
+    100046: Box040
+    100048: Box041
+    100050: Box064
+    100052: Box065
+    100054: Box066
+    100056: Box067
+    100058: Box068
+    100060: Box069
+    100062: Box070
+    100064: Box071
+    100066: Box072
+    100068: Box073
+    100070: Box074
+    100072: Box075
+    100074: Box076
+    100076: Box077
+    100078: Box078
+    100080: Box079
+    100082: Helix001
+    100084: Sphere001
+    400000: //RootNode
+    400002: Box009
+    400004: Box010
+    400006: Box011
+    400008: Box012
+    400010: Box014
+    400012: Box015
+    400014: Box016
+    400016: Box017
+    400018: Box018
+    400020: Box019
+    400022: Box020
+    400024: Box021
+    400026: Box022
+    400028: Box023
+    400030: Box026
+    400032: Box030
+    400034: Box031
+    400036: Box032
+    400038: Box035
+    400040: Box036
+    400042: Box038
+    400044: Box039
+    400046: Box040
+    400048: Box041
+    400050: Box064
+    400052: Box065
+    400054: Box066
+    400056: Box067
+    400058: Box068
+    400060: Box069
+    400062: Box070
+    400064: Box071
+    400066: Box072
+    400068: Box073
+    400070: Box074
+    400072: Box075
+    400074: Box076
+    400076: Box077
+    400078: Box078
+    400080: Box079
+    400082: Helix001
+    400084: Sphere001
+    2300000: Box009
+    2300002: Box010
+    2300004: Box011
+    2300006: Box012
+    2300008: Box014
+    2300010: Box015
+    2300012: Box016
+    2300014: Box017
+    2300016: Box018
+    2300018: Box019
+    2300020: Box020
+    2300022: Box021
+    2300024: Box022
+    2300026: Box023
+    2300028: Box026
+    2300030: Box030
+    2300032: Box031
+    2300034: Box032
+    2300036: Box035
+    2300038: Box036
+    2300040: Box038
+    2300042: Box039
+    2300044: Box040
+    2300046: Box041
+    2300048: Box064
+    2300050: Box065
+    2300052: Box066
+    2300054: Box067
+    2300056: Box068
+    2300058: Box069
+    2300060: Box070
+    2300062: Box071
+    2300064: Box072
+    2300066: Box073
+    2300068: Box074
+    2300070: Box075
+    2300072: Box076
+    2300074: Box077
+    2300076: Box078
+    2300078: Box079
+    2300080: Sphere001
+    3300000: Box009
+    3300002: Box010
+    3300004: Box011
+    3300006: Box012
+    3300008: Box014
+    3300010: Box015
+    3300012: Box016
+    3300014: Box017
+    3300016: Box018
+    3300018: Box019
+    3300020: Box020
+    3300022: Box021
+    3300024: Box022
+    3300026: Box023
+    3300028: Box026
+    3300030: Box030
+    3300032: Box031
+    3300034: Box032
+    3300036: Box035
+    3300038: Box036
+    3300040: Box038
+    3300042: Box039
+    3300044: Box040
+    3300046: Box041
+    3300048: Box064
+    3300050: Box065
+    3300052: Box066
+    3300054: Box067
+    3300056: Box068
+    3300058: Box069
+    3300060: Box070
+    3300062: Box071
+    3300064: Box072
+    3300066: Box073
+    3300068: Box074
+    3300070: Box075
+    3300072: Box076
+    3300074: Box077
+    3300076: Box078
+    3300078: Box079
+    3300080: Sphere001
+    4300000: Box009
+    4300002: Box010
+    4300004: Box011
+    4300006: Box012
+    4300008: Box014
+    4300010: Box015
+    4300012: Box016
+    4300014: Box017
+    4300016: Box018
+    4300018: Box019
+    4300020: Box020
+    4300022: Box021
+    4300024: Box022
+    4300026: Box023
+    4300028: Box026
+    4300030: Box030
+    4300032: Box031
+    4300034: Box032
+    4300036: Box035
+    4300038: Box036
+    4300040: Box038
+    4300042: Box039
+    4300044: Box040
+    4300046: Box041
+    4300048: Sphere001
+    4300050: Box064
+    4300052: Box065
+    4300054: Box066
+    4300056: Box067
+    4300058: Box068
+    4300060: Box069
+    4300062: Box070
+    4300064: Box071
+    4300066: Box072
+    4300068: Box073
+    4300070: Box074
+    4300072: Box075
+    4300074: Box076
+    4300076: Box077
+    4300078: Box078
+    4300080: Box079
+    7400000: destroy
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: destroy
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: FinishAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Box064
+        weight: 1
+      - path: Box065
+        weight: 1
+      - path: Box066
+        weight: 1
+      - path: Box067
+        weight: 1
+      - path: Box068
+        weight: 1
+      - path: Box069
+        weight: 1
+      - path: Box070
+        weight: 1
+      - path: Box071
+        weight: 1
+      - path: Box072
+        weight: 1
+      - path: Box073
+        weight: 1
+      - path: Box074
+        weight: 1
+      - path: Box075
+        weight: 1
+      - path: Box076
+        weight: 1
+      - path: Box077
+        weight: 1
+      - path: Box078
+        weight: 1
+      - path: Box079
+        weight: 1
+      - path: Helix001
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: e98b95eafc9ff4ba684a590e12a84ef0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: b_skeleton1
+    100004: b_skeleton2
+    100006: b_skeleton3
+    100008: b_skeleton4
+    100010: m_skeleton1
+    100012: m_skeleton2
+    100014: m_skeleton3
+    100016: m_skeleton4
+    100018: Particle View 001
+    100020: Rectangle001
+    100022: Rectangle002
+    100024: Rectangle003
+    100026: Rectangle008
+    100028: Rectangle009
+    100030: Rectangle010
+    100032: Sphere001
+    100034: t_skeleton1
+    100036: t_skeleton2
+    100038: t_skeleton3
+    100040: t_skeleton4
+    400000: //RootNode
+    400002: b_skeleton1
+    400004: b_skeleton2
+    400006: b_skeleton3
+    400008: b_skeleton4
+    400010: m_skeleton1
+    400012: m_skeleton2
+    400014: m_skeleton3
+    400016: m_skeleton4
+    400018: Particle View 001
+    400020: Rectangle001
+    400022: Rectangle002
+    400024: Rectangle003
+    400026: Rectangle008
+    400028: Rectangle009
+    400030: Rectangle010
+    400032: Sphere001
+    400034: t_skeleton1
+    400036: t_skeleton2
+    400038: t_skeleton3
+    400040: t_skeleton4
+    2300000: b_skeleton1
+    2300002: b_skeleton2
+    2300004: b_skeleton3
+    2300006: b_skeleton4
+    2300008: m_skeleton1
+    2300010: m_skeleton2
+    2300012: m_skeleton3
+    2300014: m_skeleton4
+    2300016: Rectangle001
+    2300018: Rectangle002
+    2300020: Rectangle003
+    2300022: Rectangle008
+    2300024: Rectangle009
+    2300026: Rectangle010
+    2300028: Sphere001
+    2300030: t_skeleton1
+    2300032: t_skeleton2
+    2300034: t_skeleton3
+    2300036: t_skeleton4
+    3300000: b_skeleton1
+    3300002: b_skeleton2
+    3300004: b_skeleton3
+    3300006: b_skeleton4
+    3300008: m_skeleton1
+    3300010: m_skeleton2
+    3300012: m_skeleton3
+    3300014: m_skeleton4
+    3300016: Rectangle001
+    3300018: Rectangle002
+    3300020: Rectangle003
+    3300022: Rectangle008
+    3300024: Rectangle009
+    3300026: Rectangle010
+    3300028: Sphere001
+    3300030: t_skeleton1
+    3300032: t_skeleton2
+    3300034: t_skeleton3
+    3300036: t_skeleton4
+    4300000: Sphere001
+    4300002: b_skeleton4
+    4300004: b_skeleton2
+    4300006: t_skeleton4
+    4300008: t_skeleton2
+    4300010: t_skeleton1
+    4300012: t_skeleton3
+    4300014: b_skeleton1
+    4300016: b_skeleton3
+    4300018: m_skeleton4
+    4300020: Rectangle001
+    4300022: Rectangle002
+    4300024: Rectangle003
+    4300026: m_skeleton1
+    4300028: m_skeleton2
+    4300030: m_skeleton3
+    4300032: Rectangle008
+    4300034: Rectangle009
+    4300036: Rectangle010
+    7400000: pm_skelton_ballParticle_bounds_start
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: pm_skelton_ballParticle_bounds_start
+      takeName: pm_skelton_ballParticle_bounds_start
+      firstFrame: 0
+      lastFrame: 235
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: FinishAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_skeleton1
+        weight: 1
+      - path: b_skeleton2
+        weight: 1
+      - path: b_skeleton3
+        weight: 1
+      - path: b_skeleton4
+        weight: 1
+      - path: m_skeleton1
+        weight: 1
+      - path: m_skeleton2
+        weight: 1
+      - path: m_skeleton3
+        weight: 1
+      - path: m_skeleton4
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle002
+        weight: 1
+      - path: Rectangle003
+        weight: 1
+      - path: Rectangle008
+        weight: 1
+      - path: Rectangle009
+        weight: 1
+      - path: Rectangle010
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: t_skeleton1
+        weight: 1
+      - path: t_skeleton2
+        weight: 1
+      - path: t_skeleton3
+        weight: 1
+      - path: t_skeleton4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
